@@ -1,4 +1,4 @@
-module github.com/namp10010/badger
+module github.com/namp10010/badge
 
 go 1.18
 
